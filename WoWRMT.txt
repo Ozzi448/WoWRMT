@@ -1,14 +1,18 @@
 [Adblock Plus 2.0]
 ! Title: OzzisRMTList
 ! Description: A RMT block list for sites that breach Blizzard's TOS and AUP; RMT = Real Money Trade; TOS = Terms of Service; AUP Acceptable Use Policy
-! Version: 1.0
+! Version: 1.1
 
-! World of Warcraft RMT,TOC,AUP
+||amandaboost.com^$document
+||boosthive.com^$document
+||onlyboosters.gg^$document
+||mmonster.co^$document
 ||g2g.com^$document
 ||g2a.com^$document
 ||playerauctions.com^$document
 ||eldorado.gg^$document
 ||guy4game.com^$document
+||gladiatorboost.com^$document
 ||overgear.com^$document
 ||mmogah.com^$document
 ||mmobuyer.com^$document
@@ -26,6 +30,7 @@
 ||koroboost.com^$document
 ||expcarry.com^$document
 ||xmmomall.com^$document
+||epiccarry.com^$document
 ||epicnpc.com^$document
 ||mmowts.com^$document
 ||iggm.com^$document
@@ -86,7 +91,6 @@
 ||ingamedelivery.com^$document
 ||gamegrin.com^$document
 ||raidline.com^$document
-||m.facebook.com/groups/2157872641027840^$document
 ||mywowgold.com^$document
 ||mmobux.com^$document
 ||techbullion^$document
@@ -97,14 +101,21 @@
 ||thedefiantguild.com^$document
 ||geekvibesnation.com^$document
 ||rockpapershotgun.com^$document
-||a6t6t.scuolastatalecumiana.it^$document
 ||fensterbau-seifarth.de^$document
 ||mpu-freising.de^$document
 ||mieterverein-flaeming.de^$document
 ||hogshill.de/en^$document
 ||lrijc.scuolamonteverdi.it^$document
-
-! Guild Wars 2 RMT,AUP,TOS
+||pvpbank.com^$document
+||feyieonkool.jigsy.com^$document
+||playcarry.com^$document
+||koalacredits.com^$document
+||kingboost.net^$document
+||gamegoldme.com^$document
+||gmemo.com^$document
+||f2fgold.com^$document
+||mmowowgolds.com^$document
+||wowpvp.org^$document
 ||taunusarchery.de^$document
 ||funpay.com^$document
 ||odealo.com^$document
@@ -123,4 +134,12 @@
 ||allegro.pl^$document
 ||goldicq.com^$document
 ||gamereasy.com^$document
-||d-slump.cfd/231638^$document
+||xpoff.com^$document
+||safegoldseller.com^$document
+||itemforge.com^$document
+||wowmania.com^$document
+||f2fgold.com^$document
+||conquestcapped.com^$document
+||sylvanas.icu^$document
+||mmosale.com^$document
+||chicksgold.com^$document
