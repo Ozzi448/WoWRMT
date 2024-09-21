@@ -2,6 +2,8 @@
 ! Title: OzzisRMTList
 ! Description: A RMT block list for sites that breach Blizzard's TOS and AUP; RMT = Real Money Trade; TOS = Terms of Service; AUP Acceptable Use Policy
 ! Version: 1.1
+! last modified: 2024-09-21
+! homepage: https://github.com/Ozzi448/WoWRMT
 
 ||amandaboost.com^$document
 ||boosthive.com^$document
