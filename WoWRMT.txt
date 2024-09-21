@@ -4,6 +4,7 @@
 ! Version: 1.1
 ! last modified: 2024-09-21
 ! homepage: https://github.com/Ozzi448/WoWRMT
+! License: https://raw.githubusercontent.com/Ozzi448/WoWRMT/refs/heads/main/LICENSE
 
 ||amandaboost.com^$document
 ||boosthive.com^$document
