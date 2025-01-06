@@ -147,3 +147,4 @@
 ||sylvanas.icu^$document
 ||mmosale.com^$document
 ||chicksgold.com^$document
+||yahoo.com^$all
